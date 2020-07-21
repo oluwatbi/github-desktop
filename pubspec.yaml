@@ -23,6 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider:
   http: ^0.12.1         # Add this line,
   oauth2: ^1.6.1        # this line,
   url_launcher: ^5.4.10 # and this line.
